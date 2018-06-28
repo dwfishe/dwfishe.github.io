@@ -17,8 +17,8 @@ title: A Little Bit About David
 email: dwfishe@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
     My name is David Fisher and I'm teaching myself all I can about web and
-    software development right now. This was a project I did to teach myself how
-    to userstand and use Jekyll and Github as well as learn markdown syntax.
+    software development right now. This was a project I did to teach myself
+    how use Jekyll and Github as well as learn markdown syntax.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: D_Fish
