@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-06-27T20:33:28-04:00</updated><id>http://localhost:4000/</id><title type="html">David Fisher and the Hunt for a New Career!</title><subtitle>My name is David Fisher and I'm teaching myself all I can about web and software development right now. This was a project I did to teach myself how to userstand and use Jekyll and Github as well as learn markdown syntax.</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2018/06/27/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2018-06-27T19:41:46-04:00</published><updated>2018-06-27T19:41:46-04:00</updated><id>http://localhost:4000/jekyll/update/2018/06/27/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2018/06/27/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry><entry><title type="html">My Resume</title><link href="http://localhost:4000/jekyll/update/2018/06/27/David_Fisher_Resume.html" rel="alternate" type="text/html" title="My Resume" /><published>2018-06-27T19:41:46-04:00</published><updated>2018-06-27T19:41:46-04:00</updated><id>http://localhost:4000/jekyll/update/2018/06/27/David_Fisher_Resume</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2018/06/27/David_Fisher_Resume.html">&lt;h1 id=&quot;david-fisher-mba&quot;&gt;David Fisher, MBA&lt;/h1&gt;
+&lt;p&gt;Phone: 864-915-2171 | E-Mail: dwfishe@gmail.com&lt;/p&gt;
+
+&lt;h3 id=&quot;achievements&quot;&gt;Achievements&lt;/h3&gt;
+&lt;hr /&gt;
+&lt;ul&gt;
+  &lt;li&gt;Proven track record of exceeding client expectations, providing timely solutions to problems, working independently and with a team in a fast-paced environment. I help people do their jobs better.&lt;/li&gt;
+  &lt;li&gt;Proven ability to build relationships with both clients and all levels of employees, and work well in team environments.&lt;/li&gt;
+  &lt;li&gt;Transitioned mortgage business from a manual to automated loan delivery environment.&lt;/li&gt;
+  &lt;li&gt;Create and maintain analytical models and reports used by the mortgage business.&lt;/li&gt;
+  &lt;li&gt;Monthly training and instruction for new hires on Secondary Marketing policy and procedures, as well as use of the pricing engine.&lt;/li&gt;
+  &lt;li&gt;Thorough testing of and training loan officers for the Optimal Blue pricing engine, which was then launched to the entire mortgage business.&lt;/li&gt;
+  &lt;li&gt;Copy Editor for Christian Business Academic Review and The Journal of Biblical Integration in Business. Academic journals publishing business professors from Christian universities around the country.&lt;/li&gt;
+  &lt;li&gt;Over ten years of experience in the financial industry.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;experience&quot;&gt;Experience&lt;/h3&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;strong&gt;United Community Bank- Greenville, SC&lt;/strong&gt;
+&lt;strong&gt;March, 2016-Present&lt;/strong&gt;
+Secondary Marking Analyst (Capital Markets)&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Manage risk facing the mortgage pipeline by monitoring activity in capital markets, analyzing daily reports, reconciling loan origination system data to third party vendor information, and verifying that all loans with data changes are repriced.&lt;/li&gt;
+  &lt;li&gt;Search for inefficiencies in the department’s processes using data and reporting, and work with stakeholders and vendors to automate or improve.&lt;/li&gt;
+  &lt;li&gt;Create and manage written procedures related to Secondary Marketing functions.&lt;/li&gt;
+  &lt;li&gt;Point of contact for all Mortgage Loan Officers, advising pricing related situations, answering questions, and finding solutions for problems.&lt;/li&gt;
+  &lt;li&gt;Operate a Help Desk style Secondary line and inbox that answers questions and instructs MLOs on procedures and coaches through pricing scenarios.&lt;/li&gt;
+  &lt;li&gt;Manage credit risks through risk-based pricing overlays.&lt;/li&gt;
+  &lt;li&gt;Train all new hires on Secondary Marketing policies and procedures, as well as use of the pricing engine.&lt;/li&gt;
+  &lt;li&gt;Monitor rate movement and distribute rate indications to Mortgage Loan Officers, Sales Managers, and Senior Management.&lt;/li&gt;
+  &lt;li&gt;Create and distribute reporting to Sales Managers to allow them to monitor their daily, monthly, quarterly, and annual production.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;TD Bank- Greenville, SC&lt;/strong&gt;
+&lt;strong&gt;August, 2013- March, 2016&lt;/strong&gt;
+Asset Based Lending Collateral Analyst&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Analyze higher-risk borrowers with LOCs ranging from $1-10 million.&lt;/li&gt;
+  &lt;li&gt;Pay attention to trends in receivables and financials in order to keep lenders abreast of the borrower’s financial health.&lt;/li&gt;
+  &lt;li&gt;Organizing all needed documentation and interactions with customers, and communicating needs with company officers.&lt;/li&gt;
+  &lt;li&gt;Effectively communicate all findings to borrowers, lenders, and the credit team.&lt;/li&gt;
+  &lt;li&gt;Train new hires on use of systems and ABL procedures.&lt;/li&gt;
+  &lt;li&gt;Monitor daily activity of accounts in order to understand their borrowing habits and provide better information to the lenders, and others who work with the borrowers.&lt;/li&gt;
+  &lt;li&gt;Completed 60+ hours of intensive Asset Based Lending training in 2014 and successfully completed ABL Train online courses.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;First Citizens Bank- Greenville, SC&lt;/strong&gt;
+&lt;strong&gt;2012-2013&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Performed the duties of both a Personal Banker and a Teller.&lt;/li&gt;
+  &lt;li&gt;Generated over $500,000 in new production for the Securities Department through one-on-one communication with clients during time in position.&lt;/li&gt;
+  &lt;li&gt;Closed 5 new and refinanced mortgages to the bank in 2012, exceeding goals.&lt;/li&gt;
+  &lt;li&gt;Trained new hires on use of systems and processes.&lt;/li&gt;
+  &lt;li&gt;Achieved one of the best operational loss records in the region.&lt;/li&gt;
+  &lt;li&gt;Received 49+ hours of off-site sales training.&lt;/li&gt;
+  &lt;li&gt;Taken 25+ hours of on-site web-based classes on customer service and sales training.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;skills&quot;&gt;Skills&lt;/h3&gt;
+&lt;hr /&gt;
+&lt;ul&gt;
+  &lt;li&gt;Strong analytical skills and an ability to zero in on the relevant information needed for decision making.&lt;/li&gt;
+  &lt;li&gt;Self-starter who always makes the best use of his time.&lt;/li&gt;
+  &lt;li&gt;Excellent communication skills, both written and verbal.&lt;/li&gt;
+  &lt;li&gt;Ample experience working efficiently with multiple teams across the footprint of a company.&lt;/li&gt;
+  &lt;li&gt;Noted for positive leadership style focusing on fostering an encouraging work culture leading to more productive outcomes.&lt;/li&gt;
+  &lt;li&gt;Adept at learning new technology and software including numerous job specific software, as well as a high understanding of Microsoft Office, especially Excel, Word, and PowerPoint.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;education&quot;&gt;Education&lt;/h3&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;strong&gt;Anderson University-Anderson, SC&lt;/strong&gt;
+&lt;strong&gt;2016&lt;/strong&gt;
+Master of Business Administration
+Delta Mu Delta Honor Society&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Clemson University-Clemson, SC&lt;/strong&gt;
+&lt;strong&gt;2007&lt;/strong&gt;
+Bachelor of Arts in English
+Minor in Education&lt;/p&gt;</content><author><name></name></author><summary type="html">David Fisher, MBA Phone: 864-915-2171 | E-Mail: dwfishe@gmail.com Achievements Proven track record of exceeding client expectations, providing timely solutions to problems, working independently and with a team in a fast-paced environment. I help people do their jobs better. Proven ability to build relationships with both clients and all levels of employees, and work well in team environments. Transitioned mortgage business from a manual to automated loan delivery environment. Create and maintain analytical models and reports used by the mortgage business. Monthly training and instruction for new hires on Secondary Marketing policy and procedures, as well as use of the pricing engine. Thorough testing of and training loan officers for the Optimal Blue pricing engine, which was then launched to the entire mortgage business. Copy Editor for Christian Business Academic Review and The Journal of Biblical Integration in Business. Academic journals publishing business professors from Christian universities around the country. Over ten years of experience in the financial industry. Experience United Community Bank- Greenville, SC March, 2016-Present Secondary Marking Analyst (Capital Markets) Manage risk facing the mortgage pipeline by monitoring activity in capital markets, analyzing daily reports, reconciling loan origination system data to third party vendor information, and verifying that all loans with data changes are repriced. Search for inefficiencies in the department’s processes using data and reporting, and work with stakeholders and vendors to automate or improve. Create and manage written procedures related to Secondary Marketing functions. Point of contact for all Mortgage Loan Officers, advising pricing related situations, answering questions, and finding solutions for problems. Operate a Help Desk style Secondary line and inbox that answers questions and instructs MLOs on procedures and coaches through pricing scenarios. Manage credit risks through risk-based pricing overlays. Train all new hires on Secondary Marketing policies and procedures, as well as use of the pricing engine. Monitor rate movement and distribute rate indications to Mortgage Loan Officers, Sales Managers, and Senior Management. Create and distribute reporting to Sales Managers to allow them to monitor their daily, monthly, quarterly, and annual production. TD Bank- Greenville, SC August, 2013- March, 2016 Asset Based Lending Collateral Analyst Analyze higher-risk borrowers with LOCs ranging from $1-10 million. Pay attention to trends in receivables and financials in order to keep lenders abreast of the borrower’s financial health. Organizing all needed documentation and interactions with customers, and communicating needs with company officers. Effectively communicate all findings to borrowers, lenders, and the credit team. Train new hires on use of systems and ABL procedures. Monitor daily activity of accounts in order to understand their borrowing habits and provide better information to the lenders, and others who work with the borrowers. Completed 60+ hours of intensive Asset Based Lending training in 2014 and successfully completed ABL Train online courses. First Citizens Bank- Greenville, SC 2012-2013 Performed the duties of both a Personal Banker and a Teller. Generated over $500,000 in new production for the Securities Department through one-on-one communication with clients during time in position. Closed 5 new and refinanced mortgages to the bank in 2012, exceeding goals. Trained new hires on use of systems and processes. Achieved one of the best operational loss records in the region. Received 49+ hours of off-site sales training. Taken 25+ hours of on-site web-based classes on customer service and sales training. Skills Strong analytical skills and an ability to zero in on the relevant information needed for decision making. Self-starter who always makes the best use of his time. Excellent communication skills, both written and verbal. Ample experience working efficiently with multiple teams across the footprint of a company. Noted for positive leadership style focusing on fostering an encouraging work culture leading to more productive outcomes. Adept at learning new technology and software including numerous job specific software, as well as a high understanding of Microsoft Office, especially Excel, Word, and PowerPoint. Education Anderson University-Anderson, SC 2016 Master of Business Administration Delta Mu Delta Honor Society Clemson University-Clemson, SC 2007 Bachelor of Arts in English Minor in Education</summary></entry></feed>
