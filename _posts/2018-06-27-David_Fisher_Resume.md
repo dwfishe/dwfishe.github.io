@@ -65,12 +65,12 @@ Asset Based Lending Collateral Analyst
 
 ### Education
 ***
-**Anderson University-Anderson, SC**
+##### **Anderson University-Anderson, SC**
 **2016**
-Master of Business Administration
-Delta Mu Delta Honor Society
+ <br />Master of Business Administration
+ <br />Delta Mu Delta Honor Society
 
-**Clemson University-Clemson, SC**
+#### **Clemson University-Clemson, SC**
 **2007**
-Bachelor of Arts in English
-Minor in Education
+ <br />Bachelor of Arts in English
+ <br />Minor in Education
