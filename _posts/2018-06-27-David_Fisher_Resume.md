@@ -7,12 +7,14 @@ categories: jekyll update
 # David Fisher, MBA
 Phone: 864-915-2171 | E-Mail: dwfishe@gmail.com
 
-### Recent Achievements
-***
-* Completed Agile Software Development course taught by Shashi Shekhar on Lynda.com
-
 ### Experience
 ***
+**Recent Achievements
+***
+* Completed Agile Software Development course taught by Shashi Shekhar on Lynda.com.
+* Completed a beginner back-end development track through Team Treehouse.
+
+
 **United Community Bank- Greenville, SC**
 **March, 2016-Present**
 <br />Secondary Marking Analyst (Capital Markets)
@@ -67,6 +69,15 @@ Phone: 864-915-2171 | E-Mail: dwfishe@gmail.com
  <br />Bachelor of Arts in English
  <br />Minor in Education
 
+### Skills
+***
+* Strong analytical skills and an ability to zero in on the relevant information needed for decision making.
+* Self-starter who always makes the best use of his time.
+* Excellent communication skills, both written and verbal.
+* Ample experience working efficiently with multiple teams across the footprint of a company.
+* Noted for positive leadership style focusing on fostering an encouraging work culture leading to more productive outcomes.
+* Adept at learning new technology and software including numerous job specific software, as well as a high understanding of Microsoft Office, especially Excel, Word, and PowerPoint.
+
 ### Achievements
 ---
 * Proven track record of exceeding client expectations, providing timely solutions to problems, working independently and with a team in a fast-paced environment. I help people do their jobs better.
@@ -77,12 +88,3 @@ Phone: 864-915-2171 | E-Mail: dwfishe@gmail.com
 * Thorough testing of and training loan officers for the Optimal Blue pricing engine, which was then launched to the entire mortgage business.
 * Copy Editor for Christian Business Academic Review and The Journal of Biblical Integration in Business. Academic journals publishing business professors from Christian universities around the country.
 * Over ten years of experience in the financial industry.
-
-### Skills
-***
-* Strong analytical skills and an ability to zero in on the relevant information needed for decision making.
-* Self-starter who always makes the best use of his time.
-* Excellent communication skills, both written and verbal.
-* Ample experience working efficiently with multiple teams across the footprint of a company.
-* Noted for positive leadership style focusing on fostering an encouraging work culture leading to more productive outcomes.
-* Adept at learning new technology and software including numerous job specific software, as well as a high understanding of Microsoft Office, especially Excel, Word, and PowerPoint.
