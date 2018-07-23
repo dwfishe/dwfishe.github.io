@@ -9,8 +9,7 @@ Phone: 864-915-2171 | E-Mail: dwfishe@gmail.com
 
 ### Experience
 ***
-**Recent Achievements
-***
+**Recent Achievements***
 * Completed Agile Software Development course taught by Shashi Shekhar on Lynda.com.
 * Completed a beginner back-end development track through Team Treehouse.
 
