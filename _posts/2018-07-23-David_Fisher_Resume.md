@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "My Resume"
-date:   2018-06-27 19:41:46 -0400
+date:   2018-07-23 19:41:46 -0400
 categories: jekyll update
 ---
 # David Fisher, MBA
@@ -9,12 +9,7 @@ Phone: 864-915-2171 | E-Mail: dwfishe@gmail.com
 
 ### Experience
 ***
-**Recent Achievements**
-* Completed Agile Software Development course taught by Shashi Shekhar on Lynda.com.
-* Completed a beginner back-end development track through Team Treehouse.
-
-
-**United Community Bank- Greenville, SC**
+**United Community Bank - Greenville, SC**
 **March, 2016-Present**
 <br />Secondary Marking Analyst (Capital Markets)
 * Daily reconciliation and analysis of mortgage pipeline loan data.
@@ -31,7 +26,7 @@ Phone: 864-915-2171 | E-Mail: dwfishe@gmail.com
 
 
 **TD Bank- Greenville, SC**
-**August, 2013- March, 2016**
+**August, 2013 - March, 2016**
 <br />Asset Based Lending Collateral Analyst
 * Analyze higher-risk borrowers with LOCs ranging from $1-10 million.
 * Pay attention to trends in receivables and financials in order to keep lenders abreast of the borrower’s financial health.
@@ -54,7 +49,10 @@ Phone: 864-915-2171 | E-Mail: dwfishe@gmail.com
 
 ### Education
 ***
-#### **Team Treehouse**
+**Recent Achievements**
+* Completed Agile Software Development course taught by Shashi Shekhar on Lynda.com.
+
+**Team Treehouse**
 **May, 2018 - Present**
 * In order to move into the technology field, I’ve been taking back-end software classes in order to learn industry jargon and understand the ins and outs of how software functions.
 
@@ -74,16 +72,4 @@ Phone: 864-915-2171 | E-Mail: dwfishe@gmail.com
 * Self-starter who always makes the best use of his time.
 * Excellent communication skills, both written and verbal.
 * Ample experience working efficiently with multiple teams across the footprint of a company.
-* Noted for positive leadership style focusing on fostering an encouraging work culture leading to more productive outcomes.
 * Adept at learning new technology and software including numerous job specific software, as well as a high understanding of Microsoft Office, especially Excel, Word, and PowerPoint.
-
-### Achievements
----
-* Proven track record of exceeding client expectations, providing timely solutions to problems, working independently and with a team in a fast-paced environment. I help people do their jobs better.
-* Proven ability to build relationships with both clients and all levels of employees, and work well in team environments.
-* Transitioned mortgage business from a manual to automated loan delivery environment.
-* Create and maintain analytical models and reports used by the mortgage business.
-* Monthly training and instruction for new hires on Secondary Marketing policy and procedures, as well as use of the pricing engine.
-* Thorough testing of and training loan officers for the Optimal Blue pricing engine, which was then launched to the entire mortgage business.
-* Copy Editor for Christian Business Academic Review and The Journal of Biblical Integration in Business. Academic journals publishing business professors from Christian universities around the country.
-* Over ten years of experience in the financial industry.
