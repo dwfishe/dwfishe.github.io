@@ -17,11 +17,11 @@ Phone: 864-915-2171 | E-Mail: dwfishe@gmail.com
 * Identify and execute needed system improvements, allowing our workflow to remain as automated as possible, reducing human error.
 * Daily and weekly calls with software vendors to improve knowledge of their systems, review needs, and follow up on ongoing projects.
 * Working with stakeholders in different roles throughout the mortgage business, understanding their motivations, and working to convince them of our shared goals in order to complete projects and follow procedures.
-* Create and manage all regulatory required written procedures related to Secondary Marketing functions.
+* Create and manage all required regulatory  written procedures related to Secondary Marketing functions.
 * Operate a Help Desk style Secondary line and inbox that answers questions and instructs MLOs on procedures and coaches through pricing scenarios.
 * Manage risk facing the mortgage pipeline by monitoring activity in capital markets, analyzing daily reports, reconciling loan origination system data to third party vendor information, and verifying that all loans with data changes are repriced.
 * Search for inefficiencies in the department’s processes using data and reporting, and work with stakeholders and vendors to automate or improve.
-* Train all new hires on Secondary Marketing policies and procedures, as well as use of the pricing engine.
+* Monthly training of all new hires on Secondary Marketing policies and procedures, as well as use of the pricing engine.
 * Monitor rate movement and distribute rate indications to Mortgage Loan Officers, Sales Managers, and Senior Management.
 
 
@@ -68,7 +68,7 @@ Phone: 864-915-2171 | E-Mail: dwfishe@gmail.com
 
 ### Skills
 ***
-* Strong analytical skills and an ability to zero in on the relevant information needed for decision making.
+* Strong analytical skills and an ability to zero in on the relevant information needed for decision-making.
 * Self-starter who always makes the best use of his time.
 * Excellent communication skills, both written and verbal.
 * Ample experience working efficiently with multiple teams across the footprint of a company.
