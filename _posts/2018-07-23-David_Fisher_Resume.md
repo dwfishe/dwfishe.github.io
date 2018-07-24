@@ -11,7 +11,7 @@ Phone: 864-915-2171 | E-Mail: dwfishe@gmail.com
 ***
 **United Community Bank - Greenville, SC**
 **March, 2016-Present**
-<br />Secondary Marking Analyst (Capital Markets)
+<br />Secondary Marketing Analyst (Capital Markets)
 * Daily reconciliation and analysis of mortgage pipeline loan data.
 * Build, use, and improve reporting models to be used to communicate analytical data to stakeholders.
 * Identify and execute needed system improvements, allowing our workflow to remain as automated as possible, reducing human error.
@@ -49,10 +49,10 @@ Phone: 864-915-2171 | E-Mail: dwfishe@gmail.com
 
 ### Education
 ***
-**Recent Achievements**
+#### **Recent Achievements**
 * Completed Agile Software Development course taught by Shashi Shekhar on Lynda.com.
 
-**Team Treehouse**
+#### **Team Treehouse**
 **May, 2018 - Present**
 * In order to move into the technology field, I’ve been taking back-end software classes in order to learn industry jargon and understand the ins and outs of how software functions.
 
