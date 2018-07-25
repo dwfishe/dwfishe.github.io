@@ -15,12 +15,11 @@ Phone: 864-915-2171 | E-Mail: dwfishe@gmail.com
 * Daily reconciliation and analysis of mortgage pipeline loan data.
 * Build, use, and improve reporting models to be used to communicate analytical data to stakeholders.
 * Identify and execute needed system improvements, allowing our workflow to remain as automated as possible, reducing human error.
-* Daily and weekly calls with software vendors to improve knowledge of their systems, review needs, and follow up on ongoing projects.
+* Daily and weekly calls with software vendors to improve knowledge of their product, review needs, and follow up on ongoing projects.
 * Working with stakeholders in different roles throughout the mortgage business, understanding their motivations, and working to convince them of our shared goals in order to complete projects and follow procedures.
-* Create and manage all required regulatory  written procedures related to Secondary Marketing functions.
-* Operate a Help Desk style Secondary line and inbox that answers questions and instructs MLOs on procedures and coaches through pricing scenarios.
+* Create and manage all regulation required written procedures related to Secondary Marketing functions.
+* Operate a Help Desk style Secondary line and inbox that answers questions and instructs loan officers on procedures and coaches through pricing scenarios.
 * Manage risk facing the mortgage pipeline by monitoring activity in capital markets, analyzing daily reports, reconciling loan origination system data to third party vendor information, and verifying that all loans with data changes are repriced.
-* Search for inefficiencies in the department’s processes using data and reporting, and work with stakeholders and vendors to automate or improve.
 * Monthly training of all new hires on Secondary Marketing policies and procedures, as well as use of the pricing engine.
 * Monitor rate movement and distribute rate indications to Mortgage Loan Officers, Sales Managers, and Senior Management.
 
@@ -54,7 +53,7 @@ Phone: 864-915-2171 | E-Mail: dwfishe@gmail.com
 
 #### **Team Treehouse**
 **May, 2018 - Present**
-* In order to move into the technology field, I’ve been taking back-end software classes in order to learn industry jargon and understand the ins and outs of how software functions.
+* In order to move into the technology field, I’ve been taking back-end software classes in order to learn the ins and outs of how software functions as well as industry jargon and terminology.
 
 #### **Anderson University-Anderson, SC**
 **2016**
