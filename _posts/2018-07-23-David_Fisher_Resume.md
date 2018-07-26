@@ -13,7 +13,7 @@ Phone: 864-915-2171 | E-Mail: dwfishe@gmail.com
 **March, 2016-Present**
 <br />Secondary Marketing Analyst (Capital Markets)
 * Daily reconciliation and analysis of mortgage pipeline loan data.
-* Build, use, and improve reporting models to be used to communicate analytical data to stakeholders.
+* Build and improve reporting models to be used to communicate analytical data to stakeholders.
 * Identify and execute needed system improvements, allowing our workflow to remain as automated as possible, reducing human error.
 * Daily and weekly calls with software vendors to improve knowledge of their product, review needs, and follow up on ongoing projects.
 * Working with stakeholders in different roles throughout the mortgage business, understanding their motivations, and working to convince them of our shared goals in order to complete projects and follow procedures.
