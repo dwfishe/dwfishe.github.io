@@ -60,7 +60,7 @@ Phone: 864-915-2171 | E-Mail: dwfishe@gmail.com
  <br />Bachelor of Arts in English
  <br />Minor in Education
 
- #### **Team Treehouse and Lynda.com**
+#### **Team Treehouse and Lynda.com**
  * In order to move into the technology field, I’ve been taking back-end software classes in order to learn the ins and outs of how software functions as well as industry jargon and terminology.
  * I've also taken Lynda.com classes that help me understand different aspects of product management, especially Agile methodologies.
 
